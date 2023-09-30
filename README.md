@@ -7,7 +7,9 @@
 
 ## Introduction
 
-Generative models via adversarial process (GANs) are a class of machine learning models that are widely used in the field of artificial intelligence and specifically in the domain of generative modeling. Our objective is to develop a GAN-based system capable of generating novel and visually compelling Pokémon spirits that align with the patterns and aesthetics found in the provided dataset. The GAN architecture consists of a generator and a discriminator to learn the patterns, characteristics, and visual qualities exhibited by Pokémon in the custom dataset with over 1000 images. we also trained an Autoencoding GAN on the same dataset and compared the two results.
+Generative models via adversarial process (GANs) are a class of machine learning models that are widely used in the field of artificial intelligence and specifically in the domain of generative modeling. Our objective is to develop a GAN-based system capable of generating novel and visually compelling Pokémon spirits that align with the patterns and aesthetics found in the provided dataset. The GAN architecture consists of a generator and a discriminator to learn the patterns, characteristics, and visual qualities exhibited by Pokémon in the custom dataset with over 1000 images. we also trained an Autoencoding GAN on the same dataset and compared the two results. <br>
+ <h4><a href="https://github.com/parisimaa/PokGAN/blob/main/Report/Deep_Learning___Final_project_.pdf">Paper link </a></h4>
+
 
 ---
 
